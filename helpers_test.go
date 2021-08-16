@@ -1,7 +1,7 @@
 package ktbotapi_test
 
 import (
-	ktbotapi "kingtalk-bot-api"
+	ktbotapi "github.com/sonnam0904/king-bot"
 	"testing"
 )
 

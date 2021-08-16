@@ -2,7 +2,7 @@ package ktbotapi_test
 
 import (
 	"io/ioutil"
-	ktbotapi "kingtalk-bot-api"
+	ktbotapi "github.com/sonnam0904/king-bot"
 	"log"
 	"net/http"
 	"os"

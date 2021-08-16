@@ -5,7 +5,7 @@
 
 Đầu tiên, đảm bảo library đã được cài đặt và cập nhận phiên bản mới nhất:
 
-`go get -u github.com/nvhai245/kingtalk-bot-api`.
+`go get -u github.com/sonnam0904/king-bot`.
 
 
 ## Example
